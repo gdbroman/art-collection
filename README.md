@@ -17,3 +17,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8c/David_-_The_Death_of_Socrates.jpg)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_gyri_of_the_thinker%27s_brain_as_a_maze_of_choices_in_biom_Wellcome_L0027293.jpg/1024px-The_gyri_of_the_thinker%27s_brain_as_a_maze_of_choices_in_biom_Wellcome_L0027293.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Albert_Bierstadt_-_Storm_in_the_Mountains_-_47.1257_-_Museum_of_Fine_Arts.jpg/1024px-Albert_Bierstadt_-_Storm_in_the_Mountains_-_47.1257_-_Museum_of_Fine_Arts.jpg)
