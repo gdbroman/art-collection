@@ -8,6 +8,8 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ivan_aivazovsky%2C_la_nona_onda%2C_1850%2C_dett.JPG/1024px-Ivan_aivazovsky%2C_la_nona_onda%2C_1850%2C_dett.JPG)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/6/63/The_Creation_of_Adam.jpg)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Caspar_David_Friedrich_-_Landscape_with_the_Rosenberg_in_the_Bohemian_Mountains_-_Google_Art_Project.jpg)
