@@ -1,6 +1,6 @@
 # Art Collection
 
-An art collection of my favorite paintings
+An art collection of my favorite paintings.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/c/ce/Theodor_Kittelsen_-_Far%2C_far_away_Soria_Moria_Palace_shimmered_like_Gold_-_Google_Art_Project.jpg)
 
