@@ -8,4 +8,12 @@ An art collection of my favorite paintings.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/90/Nikolaj_Alexandrowitsch_Jaroschenko_001.jpg)
 
+![](https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/63/The_Creation_of_Adam.jpg)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Caspar_David_Friedrich_-_Landscape_with_the_Rosenberg_in_the_Bohemian_Mountains_-_Google_Art_Project.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/8c/David_-_The_Death_of_Socrates.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg)
