@@ -1,9 +1,5 @@
 # Art Collection
 
-> _Beauty will save the world_
-> 
-> Fyodor Dostoyevsky
-
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Theodor_Kittelsen_-_Far%2C_far_away_Soria_Moria_Palace_shimmered_like_Gold_-_Google_Art_Project.jpg/1024px-Theodor_Kittelsen_-_Far%2C_far_away_Soria_Moria_Palace_shimmered_like_Gold_-_Google_Art_Project.jpg)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8f/Watts_%E2%80%93_After_the_Deluge.jpg)
